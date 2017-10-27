@@ -14,9 +14,6 @@ coverage.html
 .cover*
 .nyc_output
 
-# Dependency directory
-node_modules
-
 # Example build directory
 example/dist
 
